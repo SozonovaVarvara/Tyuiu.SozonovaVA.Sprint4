@@ -5,11 +5,12 @@ internal class Program
     {
         DataService ds = new DataService();
 
+        Console.Title = "Спринт #4 | Выполнила: Созонова В. А. | АСОиУб-25-1";
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* Спринт #1                                                               *");
+        Console.WriteLine("* Спринт #4                                                               *");
         Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
-        Console.WriteLine("* Задание #1                                                              *");
-        Console.WriteLine("* Вариант #17                                                             *");
+        Console.WriteLine("* Задание #0                                                              *");
+        Console.WriteLine("* Вариант #22                                                             *");
         Console.WriteLine("* Выполнила: Созонова Варвара Андреевна | АСОиУб-25-1                     *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
